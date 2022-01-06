@@ -1,0 +1,9 @@
+C:\Users\Developer\Desktop\Arq_txt\Arq_txt\bin\Debug\Arq_txt.exe.config
+C:\Users\Developer\Desktop\Arq_txt\Arq_txt\bin\Debug\Arq_txt.exe
+C:\Users\Developer\Desktop\Arq_txt\Arq_txt\bin\Debug\Arq_txt.pdb
+C:\Users\Developer\Desktop\Arq_txt\Arq_txt\obj\Debug\Arq_txt.csprojAssemblyReference.cache
+C:\Users\Developer\Desktop\Arq_txt\Arq_txt\obj\Debug\Arq_txt.Form1.resources
+C:\Users\Developer\Desktop\Arq_txt\Arq_txt\obj\Debug\Arq_txt.Properties.Resources.resources
+C:\Users\Developer\Desktop\Arq_txt\Arq_txt\obj\Debug\Arq_txt.csproj.GenerateResource.cache
+C:\Users\Developer\Desktop\Arq_txt\Arq_txt\obj\Debug\Arq_txt.exe
+C:\Users\Developer\Desktop\Arq_txt\Arq_txt\obj\Debug\Arq_txt.pdb
